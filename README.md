@@ -62,11 +62,11 @@ Click [My Git Hub](http://github.com/Child12vrc)
 
 <!-- Code -->
 
-debug console Sample 'Debug.log("--")'
+debug console Sample `Debug.log("--")`
 
-'''C#
+```C#
 Debug.Log(Message)
-'''
+```
 
 <!-- TodoList -->
 - [x] #739
