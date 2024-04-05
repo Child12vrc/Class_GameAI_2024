@@ -43,3 +43,10 @@ Steps: 45, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2521781408, Size: 624x9
 ![image](https://raw.githubusercontent.com/Child12vrc/Class_GameAI_2024/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00012-1385011380.png)
 
 ![image](https://raw.githubusercontent.com/Child12vrc/Class_GameAI_2024/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8/00029-3997028078.png)
+
+
+### 컨트롤넷 스크리블 사용 전후
+
+![image](https://raw.githubusercontent.com/Child12vrc/Class_GameAI_2024/main/Controlnet/%EA%B7%B8%EB%A6%BC%202.png)
+
+![image](https://raw.githubusercontent.com/Child12vrc/Class_GameAI_2024/main/Controlnet/00031-2526657696.png)
