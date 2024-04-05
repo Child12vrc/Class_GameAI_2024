@@ -50,3 +50,16 @@ Steps: 45, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 2521781408, Size: 624x9
 ![image](https://raw.githubusercontent.com/Child12vrc/Class_GameAI_2024/main/Controlnet/%EA%B7%B8%EB%A6%BC%202.png)
 
 ![image](https://raw.githubusercontent.com/Child12vrc/Class_GameAI_2024/main/Controlnet/00031-2526657696.png)
+
+
+### Pixelization 사용 전후
+
+![image](https://github.com/Child12vrc/Class_GameAI_2024/blob/main/Depth%20Pixelization/00144-2337168754.png?raw=true)
+
+![image](https://github.com/Child12vrc/Class_GameAI_2024/blob/main/Depth%20Pixelization/00003.png?raw=true)
+
+### Depth 사용 전후
+
+![image](https://github.com/Child12vrc/Class_GameAI_2024/blob/main/Depth%20Pixelization/images.jpg?raw=true)
+
+![image](https://github.com/Child12vrc/Class_GameAI_2024/blob/main/Depth%20Pixelization/00037-3028498838.png?raw=true)
